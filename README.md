@@ -1,6 +1,6 @@
 # prafullportfolio
 
-A new Flutter project.
+This is my Portfolio Application made with Flutter and it Includes all My Designation Details ;)
 
 ## Getting Started
 
